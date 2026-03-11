@@ -1,0 +1,10 @@
+overall_style_version: 1
+printer_geometry:
+  'M200V2':
+    bed_wide__mm: 120
+    bed_deep__mm: 120
+    bed_height__mm: 120
+  'neptune4':
+    bed_wide__mm: 225
+    bed_deep__mm: 225
+    bed_height__mm: 265
